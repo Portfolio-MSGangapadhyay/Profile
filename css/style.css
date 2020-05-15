@@ -233,6 +233,8 @@ body.offcanvas-open .site-wrap {
 }
 
 .offcanvas-toggle {
+  padding: 0px 12px;
+  background-color: white;
   font-weight: 900;
   position: fixed;
   z-index: 89;
@@ -241,12 +243,12 @@ body.offcanvas-open .site-wrap {
   letter-spacing: .1em;
   font-size: 30px;
   top: 21px;
-  color: #960542;
+  color: #f73854;
 }
 
 .offcanvas-toggle:hover {
-  color: #0439a8;
-  opacity: .7;
+  color: #f7364d;
+  opacity: 1.0;
 }
 
 .offcanvas-toggle.light {
