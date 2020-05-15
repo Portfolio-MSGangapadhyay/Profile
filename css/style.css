@@ -233,6 +233,8 @@ body.offcanvas-open .site-wrap {
 }
 
 .offcanvas-toggle {
+  padding: 0px 12px;
+  background-color: white;
   font-weight: 900;
   position: fixed;
   z-index: 89;
