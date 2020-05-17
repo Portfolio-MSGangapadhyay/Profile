@@ -1455,3 +1455,9 @@ main {
     stroke-dashoffset: -136px;
   }
 }
+
+.contact-icon{
+  padding: 5px;
+  /* size: 5em!important; */
+  margin: 5px;
+}
